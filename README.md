@@ -6,7 +6,7 @@ Some websites are no longer available on the internet due to companies decision.
 
 
 #### Dobry Pracodawca
-######(click on the thumbnail to see the whole page in full resolution )
+###### (click on the thumbnail to see the whole page in full resolution )
 
 
 | mobile | tablet | desktop |
@@ -15,14 +15,14 @@ Some websites are no longer available on the internet due to companies decision.
 
 
 #### Bosch Warsaw IT
-######(click on the thumbnail to see the whole page in full resolution )
+###### (click on the thumbnail to see the whole page in full resolution )
 
 | mobile | tablet | desktop |
 |---|---|---|
 |[![](img/web_pages_screenshots/thumbnails/thumbnails-boschwarsawit_mobile.png)](img/web_pages_screenshots/boschwarsawit_mobile.png)|[![](img/web_pages_screenshots/thumbnails/thumbnails-boschwarsawit_tablet.png)](img/web_pages_screenshots/boschwarsawit_tablet.png)|[![](img/web_pages_screenshots/thumbnails/thumbnails-boschwarsawit_desktop.png)](img/web_pages_screenshots/boschwarsawit_desktop.png)
 
 #### ING
-######(click on the thumbnail to see the whole page in full resolution )
+###### (click on the thumbnail to see the whole page in full resolution )
 
 
 | mobile | tablet | desktop |
@@ -37,7 +37,7 @@ Some websites are no longer available on the internet due to companies decision.
 
 
 #### Jeronimo Martins
-######(click on the thumbnail to see the whole page in full resolution )
+###### (click on the thumbnail to see the whole page in full resolution )
 
 
 | mobile | tablet | desktop |

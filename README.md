@@ -1,8 +1,11 @@
 # portfolio
 
+My [LinkedIn](https://www.linkedin.com/in/jan-pawe%C5%82-walkiewicz/) profile
+
 ### Web pages programmed for external clients
 
 Some websites are no longer available on the internet due to companies decision. Therefore I present screenshots of the pages that I have programmed (the source code of these pages belongs to their owners and can not be shown).
+######If you use a mobile phone, click `View all of README.md` to view rest of this page.
 
 
 #### Dobry Pracodawca
